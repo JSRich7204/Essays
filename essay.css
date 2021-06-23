@@ -125,6 +125,6 @@ video{
     margin-left: auto;
     margin-right: auto;
     display: block;
-    height: max-content;
-    width: max-content;
+    height: 100%;
+    width: 100%;
 }
